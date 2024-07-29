@@ -1,0 +1,26 @@
+2024-07-27 19:47:02 [WARN]: Attempted to add a task with missing fields.
+2024-07-27 19:48:04 [WARN]: Task added successfully with no conflicts.
+2024-07-27 19:49:18 [WARN]: Conflict with existing task while adding
+2024-07-27 19:54:41 [WARN]: Task added successfully with no conflicts.
+2024-07-27 19:54:52 [WARN]: Attempted to add a task with missing fields.
+2024-07-27 19:55:12 [WARN]: Invalid start time and end time provided.
+2024-07-27 19:55:32 [WARN]: Invalid time format provided.
+2024-07-27 19:55:49 [WARN]: Conflict with existing task while adding Lunch
+2024-07-28 21:05:32 [WARN]: Invalid time format provided.
+2024-07-28 21:05:46 [WARN]: Invalid priority provided.
+2024-07-28 21:06:00 [WARN]: Task adf added successfully with no conflicts.
+2024-07-28 21:07:01 [WARN]: Task asf added successfully with no conflicts.
+2024-07-28 21:07:21 [WARN]: Error: Task Nas not Found while editing.
+2024-07-28 21:08:58 [WARN]: No Task Scheduled for a day.
+2024-07-28 21:09:08 [WARN]: Error: Task 1 not Found while editing.
+2024-07-28 21:09:21 [WARN]: Task Manoj added successfully with no conflicts.
+2024-07-28 21:10:44 [WARN]: No Task Scheduled for a day.
+2024-07-28 21:11:47 [WARN]: No Task Scheduled for a day.
+2024-07-28 21:18:13 [WARN]: Invalid priority provided.
+2024-07-28 21:18:24 [WARN]: Task asdf added successfully with no conflicts.
+2024-07-28 21:47:01 [WARN]: Task Lunch added successfully with no conflicts.
+2024-07-28 22:08:00 [WARN]: Task Lunch added successfully with no conflicts.
+2024-07-28 22:08:11 [WARN]: Attempted to remove a task without providing a description.
+2024-07-28 22:08:16 [WARN]: Task removed successfully Lunch
+2024-07-28 22:11:26 [WARN]: Task Lunch added successfully with no conflicts.
+2024-07-28 22:11:36 [WARN]: Conflict with existing task Lunch while adding Meet

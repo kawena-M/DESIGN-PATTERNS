@@ -1,0 +1,19 @@
+{
+  "name": "factory_pattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Main.js",
+  "scripts": {
+    "start": "node dist/Main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.0.0"
+  },
+  "dependencies": {
+    "winston": "^3.13.1"
+  }
+}
+

@@ -1,0 +1,20 @@
+{
+  "name": "astronaut_daily_schedule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.js",
+  "scripts": {
+    "start":"node dist/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.12",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "winston": "^3.13.1"
+  }
+}
